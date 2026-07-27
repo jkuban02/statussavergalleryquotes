@@ -164,7 +164,7 @@ Continued use of the application after updates constitutes acceptance of the rev
 
 If you have any questions or concerns regarding this Privacy Policy, please contact us:
 
-**Email:** [vsjtechlab@gmail.com](mailto:vsjtechlab@gmail.com)
+**Email:** [support@vsjtechlab.com](mailto:support@vsjtechlab.com)
 
 We will make reasonable efforts to respond to your inquiry as soon as possible.
 
